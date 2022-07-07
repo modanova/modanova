@@ -1,4 +1,11 @@
 # Hi, I'm Manoela
+
+Currently training with Founders and Coders as a software developer as my goal is to change careers and get into Tech.
+
+In the meantime, I am finishing the school year at a primary school as a Year 3 class teacher. I have trained at primary schools and gained a PGCE with Qualified Teacher Status, at the University of Cumbria, London. 
+
+Previously, I have also worked as a German teacher to children and adults in Bulgaria, as well as a childminder and nursery nurse in Denmark.
+
 ## :sparkles: Software Developer :sparkles:
 
 - 🔭 I'm currently training at [FoundersAndCoders](https://www.foundersandcoders.com/)
