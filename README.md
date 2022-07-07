@@ -1,4 +1,4 @@
-# Hi, I'm Manoela Danova
+# Hi, I'm Manoela
 ## :sparkles: Software Developer :sparkles:
 
 - 🔭 I'm currently training at [FoundersAndCoders](https://www.foundersandcoders.com/)
