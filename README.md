@@ -12,6 +12,8 @@ In the meantime, I am finishing the school year at a primary school as a Year 3 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=modanova&theme=ayu-light	)](https://git.io/streak-stats)
 
+## :eyes: Preview my most recent [project](https://modanova.github.io/tiney-challenge/)
+
 ### 📫 Contact
 I'd love to hear from you. Please drop me a :speech_balloon: on:
 
