@@ -1,8 +1,10 @@
-# Hi, :wave: I'm Manoela
+# Hi there :wave:
 
-Currently training with Founders and Coders as a software developer as my goal is to change careers and get into Tech.
+I am Manoela, currently training with Founders and Coders as a software developer as my goal is to change careers and get into Tech.
 
-In the meantime, I am finishing the school year at a primary school as a Year 3 class teacher. Previously, I have also worked as a German teacher to children and adults in Bulgaria, as well as a childminder and nursery nurse in Denmark.
+Just finished the school year at a primary school as a Year 3 class teacher. Previously, I have also worked as a German teacher to children and adults in Bulgaria, as well as a childminder and nursery nurse in Denmark.
+
+Curuous fact: I love board games! :game_die:
 
 ## :sparkles: Juniour Software Developer :sparkles:
 
