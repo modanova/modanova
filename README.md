@@ -14,7 +14,9 @@ Curuous fact: I love board games! :game_die:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=modanova&theme=ayu-light	)](https://git.io/streak-stats)
 
-## :eyes: Preview my most recent [project](https://fac25.github.io/testing-Manoela-Karwan//)
+## :eyes: Preview my most recent projects:
+- [a snake game](https://modanova.github.io/snake///)
+- [todo app](https://fac25.github.io/testing-Manoela-Karwan//)
 
 ### 📫 Contact
 I'd love to hear from you. Please drop me a :speech_balloon: on:
