@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-I am Manoela, currently working @ Zaizi as an Apprentice software developer, learning different technologies such as AWS, Terraform, Python etc.
+I am Manoela, currently working @[Zaizi](https://www.zaizi.com/) as an 🌱Apprentice Software Developer🌱, learning different technologies such as AWS, Terraform, Python etc.
 
 I've previously worked as a primary school teacher from Reception to Year3 . Alos have experience a German teacher to children and adults in Bulgaria, as well as a childminder and nursery nurse in Denmark.
 
