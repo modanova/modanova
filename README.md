@@ -1,14 +1,20 @@
 # Hi there :wave:
 
-I am Manoela, currently training with Founders and Coders as a software developer as my goal is to change careers and get into Tech.
+I am Manoela, currently working @ Zaizi as an Apprentice software developer, learning different technologies such as AWS, Terraform, Python etc.
 
-Just finished the school year at a primary school as a Year 3 class teacher. Previously, I have also worked as a German teacher to children and adults in Bulgaria, as well as a childminder and nursery nurse in Denmark.
+I've previously worked as a primary school teacher from Reception to Year3 . Alos have experience a German teacher to children and adults in Bulgaria, as well as a childminder and nursery nurse in Denmark.
 
 Curuous fact: I love board games! :game_die:
 
 ## :sparkles: Juniour Software Developer :sparkles:
 
-- 🌱 I'm learning ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- 🌱 I'm learning
+
+YAML - TERRAFORM - PYTHON - CYPRESS - AWS
+
+as well as 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) SASS - TAILWIND - CHAKRAUI etc...
 
 ## :paw_prints: Stats :paw_prints:
 
